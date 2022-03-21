@@ -1,0 +1,9 @@
+.default-color0.chart-bar { -fx-bar-fill: Red; }
+.default-color1.chart-bar { -fx-bar-fill: Blue; }
+
+.default-color0.chart-pie { -fx-pie-color: Aqua; }
+.default-color1.chart-pie { -fx-pie-color: Gold; }
+.default-color2.chart-pie { -fx-pie-color: DarkOrange; }
+.default-color3.chart-pie { -fx-pie-color: DarkSalmon; }
+.default-color4.chart-pie { -fx-pie-color: LawnGreen; }
+.default-color5.chart-pie { -fx-pie-color: Plum; }
